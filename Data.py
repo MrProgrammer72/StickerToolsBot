@@ -14,50 +14,48 @@ class Data:
 
 ꜱᴇɴᴅ ᴍᴜʟᴛɪᴘʟᴇ ɪᴍᴀɢᴇꜱ ᴏʀ ꜱᴛɪᴄᴋᴇʀꜱ ᴀɴᴅ ɪᴛ ᴡɪʟʟ ᴡᴏʀᴋ ᴛʜᴇ ꜱᴀᴍᴇ
 
- ๏ ᴍᴀᴅᴇ [🖤]() ʙʏ :[𝗝𝝙𝗬](https://t.me/GJ516_DISCUSS_GROUP)
+๏ ᴍᴀᴅᴇ [🖤](https://te.legra.ph/file/9bdd7bce694689cb59086.jpg) ʙʏ :[𝗝𝝙𝗬](https://t.me/GJ516_DISCUSS_GROUP)
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")],
+        [InlineKeyboardButton("°ʏᴏᴜᴛᴜʙᴇ°", url="https://youtube.com/channel/UCGymrG_xXpLrxtoXeF61Drw")],
+        [InlineKeyboardButton(text="°ʜᴏᴍᴇ°", callback_data="home")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")
+            InlineKeyboardButton("°ʏᴏᴜᴛᴜʙᴇ°", url="https://youtube.com/channel/UCGymrG_xXpLrxtoXeF61Drw")
         ],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("°ʜᴇʟᴘ°", callback_data="help"),
+            InlineKeyboardButton("°ᴀʙᴏᴜᴛ°", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("°ᴄʜᴀɴɴᴇʟ°", url="https://t.me/myworldGJ516")],
+        [InlineKeyboardButton("°ꜱᴜᴘᴘᴏʀᴛ°", url="https://t.me/GJ516_DISCUSS_GROUP")],
     ]
 
     # Help Message
     HELP = """
-You Really Need Help ?!?!?!?!
+ʏᴏᴜ ʀᴇᴀʟʟʏ ɴᴇᴇᴅ ʜᴇʟᴘ ?
 
-1) Send Sticker to get Image
-2) Send Image to get Sticker
+๏ ꜱᴇɴᴅ ꜱᴛɪᴄᴋᴇʀ ᴛᴏ ɢᴇᴛ ɪᴍᴀɢᴇ
+๏ ꜱᴇɴᴅ ɪᴍᴀɢᴇ ᴛᴏ ɢᴇᴛ ꜱᴛɪᴄᴋᴇʀ
 
-Note : You can send any amount of images or stickers or both together at once and it will work with same speed and accuracy.
+ɴᴏᴛᴇ : ʏᴏᴜ ᴄᴀɴ ꜱᴇɴᴅ ᴀɴʏ ᴀᴍᴏᴜɴᴛ ᴏꜰ ɪᴍᴀɢᴇꜱ ᴏʀ ꜱᴛɪᴄᴋᴇʀꜱ ᴏʀ ʙᴏᴛʜ ᴛᴏɢᴇᴛʜᴇʀ ᴀᴛ ᴏɴᴄᴇ ᴀɴᴅ ɪᴛ ᴡɪʟʟ ᴡᴏʀᴋ ᴡɪᴛʜ ꜱᴀᴍᴇ ꜱᴘᴇᴇᴅ ᴀɴᴅ ᴀᴄᴄᴜʀᴀᴄʏ.
 
-More features in development. Keep track by joining @StarkBots.
+ᴍᴏʀᴇ ꜰᴇᴀᴛᴜʀᴇꜱ ɪɴ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ. ᴋᴇᴇᴘ ᴛʀᴀᴄᴋ ʙʏ ᴊᴏɪɴɪɴɢ @GJ516_DISCUSS_GROUP.
     """
 
     # About Message
     ABOUT = """
-**About This Bot** 
+**ᴀʙᴏᴜᴛ ᴛʜɪꜱ ʙᴏᴛ** 
 
-Bot created by @StarkBots
+ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/StarkBotsIndustries/StickerToolsBot)
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StickerToolsBot)
+ꜰʀᴀᴍᴇᴡᴏʀᴋ : [ᴘʏʀᴏɢʀᴀᴍ](docs.pyrogram.org)
 
-Framework : [Pyrogram](docs.pyrogram.org)
+ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](www.python.org)
 
-Language : [Python](www.python.org)
-
-Developer : @StarkProgrammer
+ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/myworldGJ516)
     """
