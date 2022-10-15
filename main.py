@@ -11,7 +11,7 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 
 app = Client(
-    "ST-Bot",
+    "GJ-Bot",
     api_id=Config.API_ID,
     api_hash=Config.API_HASH,
     bot_token=Config.BOT_TOKEN,
@@ -28,7 +28,7 @@ if __name__ == "__main__":
     except AccessTokenInvalid:
         raise Exception("Your BOT_TOKEN is not valid.")
     uname = app.get_me().username
-    print(f"@{uname} Started Successfully!")
+    print(f"@{uname} Started Successfully Baby ! ")
     idle()
     app.stop()
-    print("Bot stopped. Alvida!")
+    print("Bot stopped. Alvida Janeman !")
