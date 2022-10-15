@@ -1,7 +1,7 @@
 {
   "name": "Sticker Tools Bot",
   "description": "Telegram bot for Stickers Tools",
-  "logo": "https://telegra.ph/file/0abe9c29410965545218f.png",
+  "logo": "https://te.legra.ph/file/44f9bd7217bceeb1cc52c.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/BrainyQuoteBot",
+  "repository": "https://github.com/MrProgrammer72/StickerToolsBot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
