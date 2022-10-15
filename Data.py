@@ -4,17 +4,17 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     # Start Message
     START = """
-Hey {}
+ʜᴇʏ 🖤 ʙᴀʙʏ {}
 
-Welcome to {}
+ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {}
 
-You can use this bot to convert
-1) Sticker to Image
-2) Image to Sticker
+ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ᴛᴏ ᴄᴏɴᴠᴇʀᴛ
+๏ ꜱᴛɪᴄᴋᴇʀ ᴛᴏ ɪᴍᴀɢᴇ
+๏ ɪᴍᴀɢᴇ ᴛᴏ ꜱᴛɪᴄᴋᴇʀ
 
-Send Multiple images or stickers and it will work the same
+ꜱᴇɴᴅ ᴍᴜʟᴛɪᴘʟᴇ ɪᴍᴀɢᴇꜱ ᴏʀ ꜱᴛɪᴄᴋᴇʀꜱ ᴀɴᴅ ɪᴛ ᴡɪʟʟ ᴡᴏʀᴋ ᴛʜᴇ ꜱᴀᴍᴇ
 
-By @StarkBots
+ ๏ ᴍᴀᴅᴇ [🖤]() ʙʏ :[𝗝𝝙𝗬](https://t.me/GJ516_DISCUSS_GROUP)
     """
 
     # Home Button
