@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://telegra.ph/file/5961768eeecd2b1fe333c.jpg"> 
+  <img src="https://te.legra.ph/file/fce88138f8b501126ce07.jpg"> 
  </p> 
 
  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](MrProgrammer72/StickerToolsBot?utm_source=github.com&utm_medium=referral&utm_content=MrProgrammer72/StickerToolsBot&utm_campaign=Badge_Grade_Settings) 
