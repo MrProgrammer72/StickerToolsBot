@@ -26,7 +26,7 @@
  <a href="https://t.me/TBH_N3TWORK"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a> 
  ------------------------------------------------- 
  ## 🚀 Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ 
-    <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MrProgrammer72/StickerToolsBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>  
+   <a href="https://heroku.com/deploy?template=https://github.com/MrProgrammer72/StickerToolsBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a>
  
 ------------------------------------------------ 
 ## ᴄʀᴇᴅɪᴛ 💖 
