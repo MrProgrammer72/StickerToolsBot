@@ -4,7 +4,7 @@
  </p> 
   
   
- [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](Popay-ckl/TBH-BOTFATHER-SPAM?utm_source=github.com&utm_medium=referral&utm_content=Popay-ckl/TBH-BOTFATHER-SPAM&utm_campaign=Badge_Grade_Settings) 
+ [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](Popay-ckl/TBH-BOTFATHER-SPAM?utm_source=github.com&utm_medium=referral&utm_content=Popay-ckl/TBH-BOTFATHER-SPAM&utm_campaign=Badge_Grade_Settings) 
  [![Size](https://img.shields.io/github/repo-size/dangerousjatt/SpamBot-2.0?style=flat-square&color=green)](https://github.com/Popay-ckl/TBH-BOTFATHER-SPAM/)    
  [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/) 
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Popay-ckl/TBH-BOTFATHER-SPAM/graphs/commit-activity) 
