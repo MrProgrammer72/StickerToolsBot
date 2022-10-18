@@ -31,7 +31,7 @@ class Data:
             InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url="https://t.me/myworldGJ516"),
             InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/GJ516_DISCUSS_GROUP")
         ],
- ]
+    ]
 
     # Help Message
     HELP = """
