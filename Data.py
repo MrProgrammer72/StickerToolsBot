@@ -27,6 +27,7 @@ class Data:
             InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
+        [
             InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url="https://t.me/myworldGJ516"),
             InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/GJ516_DISCUSS_GROUP")
         ],
