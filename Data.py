@@ -21,7 +21,7 @@ class Data:
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("ᴊᴏɪɴ ʙᴀʙʏ", url="https://youtube.com/channel/UCGymrG_xXpLrxtoXeF61Drw")
+            InlineKeyboardButton("ᴊᴏɪɴ ʙᴀʙʏ", url="https://t.me/GJ516_DISCUSS_GROUP")
         ],
         [
             InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
