@@ -16,20 +16,19 @@ class Data:
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("°ʏᴏᴜᴛᴜʙᴇ°", url="https://youtube.com/channel/UCGymrG_xXpLrxtoXeF61Drw")],
-        [InlineKeyboardButton(text="°ʜᴏᴍᴇ°", callback_data="home")],
+        [InlineKeyboardButton(text="◁", callback_data="home")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("°ʏᴏᴜᴛᴜʙᴇ°", url="https://youtube.com/channel/UCGymrG_xXpLrxtoXeF61Drw")
+            InlineKeyboardButton("ᴊᴏɪɴ ʙᴀʙʏ", url="https://youtube.com/channel/UCGymrG_xXpLrxtoXeF61Drw")
         ],
         [
-            InlineKeyboardButton("°ʜᴇʟᴘ°", callback_data="help"),
-            InlineKeyboardButton("°ᴀʙᴏᴜᴛ°", callback_data="about")
+            InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
+            InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("°ᴄʜᴀɴɴᴇʟ°", url="https://t.me/myworldGJ516")],
-        [InlineKeyboardButton("°ꜱᴜᴘᴘᴏʀᴛ°", url="https://t.me/GJ516_DISCUSS_GROUP")],
+        InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url="https://t.me/myworldGJ516"),
+        InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/GJ516_DISCUSS_GROUP")],
     ]
 
     # Help Message
@@ -48,11 +47,11 @@ class Data:
     ABOUT = """
 **ᴀʙᴏᴜᴛ ᴛʜɪꜱ ʙᴏᴛ** 
 
-➢ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/StarkBotsIndustries/StickerToolsBot)
+➢ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ɢɪᴛʜᴜʙ](https://github.com/StarkBotsIndustries/StickerToolsBot)
 
 ➢ ꜰʀᴀᴍᴇᴡᴏʀᴋ : [ᴘʏʀᴏɢʀᴀᴍ](docs.pyrogram.org)
 
 ➢ ʟᴀɴɢᴜᴀɢᴇ  : [ᴘʏᴛʜᴏɴ](www.python.org)
 
-➢ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/export_gabbar)
+➢ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ᴊᴀʏ](https://t.me/export_gabbar)
     """
