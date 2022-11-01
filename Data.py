@@ -11,7 +11,7 @@ class Data:
  ➻ ꜱᴛɪᴄᴋᴇʀ ᴛᴏ ɪᴍᴀɢᴇ
  ➻ ɪᴍᴀɢᴇ ᴛᴏ ꜱᴛɪᴄᴋᴇʀ
 ๏ ꜱᴇɴᴅ ᴍᴜʟᴛɪᴘʟᴇ ɪᴍᴀɢᴇꜱ ᴏʀ ꜱᴛɪᴄᴋᴇʀꜱ ᴀɴᴅ ɪᴛ ᴡɪʟʟ ᴡᴏʀᴋ ᴛʜᴇ ꜱᴀᴍᴇ
-๏ ᴍᴀᴅᴇ [🖤](https://te.legra.ph/file/9bdd7bce694689cb59086.jpg) ʙʏ :[𝗝𝝙𝗬](https://t.me/export_gabbar)
+๏ ᴍᴀᴅᴇ [🖤](https://te.legra.ph/file/c45bdbdc46b3f95143e89.jpg) ʙʏ :[𝗝𝝙𝗬](https://t.me/export_gabbar)
     """
 
     # Home Button
